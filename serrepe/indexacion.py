@@ -1,96 +1,64 @@
-#EJERCICIO1:
-#              1         2
-#    012345678901234567890123456
-msg="MUCHO PRESUMIR Y POCO VALER"
-print(msg[17])    #MOSTRAR P
+#    012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678
+msj="Al cerrar las persianas, el viento comenzó a soplar con más fuerza y escuchamos un ruido muy fuerte"
+#pedir la letra:
+a=msj[6]  # imprimir la letra r
+a=msj[6]  # imprimir la letra  r
+print(a)
 
-#EJERCICIO2:
-#              1         2         3         4         5         6         7
-#    01234567890123456789012345678901234567890123456789012345678901234567890123456789
-msg="NO BUSQUES PERSONAS CON TUS MISMOS GUSTOS, BUSCA PERSONAS CON TUS MISMOS VALORES"
-print(msg[51])         #MOSTRAR R
-
-#EJERCICIO3:
-#              1         2         3         4         5         6
-#    012345678901234567890123456789012345678901234567890123456789012
-msg="EN EL CAMINO PERDERAS PERSONAS Y COSAS. NO TE PIERDAS CON ELLAS"
-print(msg[26])            #MOSTRAR O
-
-#EJERCICIO4:
-#              1         2         3         4         5         6
-#    012345678901234567890123456789012345678901234567890123456789012
-msg="NO HAGAS A LOS OTROS LO QUE NO TE GUSTARIA QUE TE HICIERAN A TI"
-print(msg[34])         #MOSTRAR G
-
-#EJERCICIO5:
-#              1         2         3         4         5         6
-#    012345678901234567890123456789012345678901234567890123456789012
-msg="EN EL CAMINO PERDERÁS PERSONAS Y COSAS. NO TE PIERDAS CON ELLAS"
-print(msg[49])          #MOSTRAR R
-
-#EJERCICIO6:
-#              1         2
-#    01234567890123456789012345
-msg="NO ME ACUERDO DE OLVIDARTE"
-print(msg[22])       #MOSTRAR A
-
-#EJERCICIO7:
-#              1         2         3         4
-#    0123456789012345678901234567890123456789012345
-msg="LA VIDA ES MARAVILLOSA SI NO SE LE TIENE MIEDO"
-print(msg[11])          #MOSTRAR M
-
-#EJERCICIO8:
-#              1         2         3         4         5
-#    012345678901234567890123456789012345678901234567890123
-msg="NO ES POBRE EL QUE TIENE POCO, SINO EL QUE MUCHO DESEA"
-print(msg[53])          #MOSTRAR A
-
-
-#EJERCICIO9:
-#              1         2         3
-#    0123456789012345678901234567890123456
-msg="ABRID ESCUELAS Y SE CERRARAN CARCELES"
-print(msg[20])          #MOSTRAR C
-
-#EJERCICIO10:
-#              1         2         3         4         5         6
-#    0123456789012345678901234567890123456789012345678901234567890123456789
-msg="ELIGE UN TRABAJO QUE AMES, Y NO TENDRAS QUE TRABAJAR UN DIA EN TU VIDA"
-print(msg[67])          #MOSTRAR I
-
-#EJERCICIO11:
-#              1         2         3         4
-#    01234567890123456789012345678901234567890123
-msg="EL AZAR NO EXISTE; DIOS NO JUEGA A LOS DADOS"
-print(msg[25])          #MOSTRAR O
-
-#EJERCICIO12:
-#              1         2         3         4         5
-#    01234567890123456789012345678901234567890123456789012345678
-msg="PREFERIRIA LA PAZ MAS INJUSTA A LA MAS JUSTA DE LAS GUERRAS"
-print(msg[23])          #MOSTRAR N
-
-#EJERCICIO12:
-#              1         2         3         4         5
-#    012345678901234567890123456789012345678901234567890123456789
-msg="NO SIEMPRE ES LA MULTITUD LA POSEEDORA DE LA VERDAD ABSOLUTA"
-print(msg[32])          #MOSTRAR E
-
-#EJERCICIO13:
-#              1         2
-#    012345678901234567890123456789
-msg="SOLO VIVEN AQUELLOS QUE LUCHAN"
-print(msg[18])          #MOSTRAR S
-
-#EJERCICIO14:
-#              1         2         3         4         5         6
-#    012345678901234567890123456789012345678901234567890123456789012345
-msg="LA PEREZA VIAJA TAN DESPACIO QUE LA POBREZA NO TARDA EN ALCANZARLA"
-print(msg[23])          #MOSTRAR P
-
-#EJERCICIO15:
-#              1         2         3         4         5         6         7         8         9        10
-#    012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901
-msg="LA VIDA ES UNA OBRA TEATRAL QUE NO IMPORTA CUANTO HAYA DURADO, SINO LO BIEN QUE HAYA SIDO REPRESENTADA"
-print(msg[52])          #MOSTRAR Y
+# ejemplo 2:
+b=msj[35]    #imprimir la letra c
+#pedir la letra
+print(b)
+# ejemplo 3:
+c=msj[20]    #imprimir la letra n
+#pedir la letra
+print(c)
+# ejemplo 4:
+d=msj[56]    #imprimir la letra m
+#pedir la letra
+print(d)
+# ejemplo 5:
+e=msj[47]    #imprimir la letra p
+#pedir la letra
+print(e)
+# ejemplo 6:
+f=msj[75]    #imprimir la letra a
+#pedir la letra
+print(f)
+# ejemplo 7:
+g=msj[15]    #imprimir la letra e
+#pedir la letra
+print(g)
+# ejemplo 8:
+h=msj[23]    #imprimir la letra ,
+#pedir la letra
+print(h)
+# ejemplo 9:
+i=msj[1]    #imprimir la letra l
+#pedir la letra
+print(i)
+# ejemplo 10:
+j=msj[95]    #imprimir la letra e
+#pedir la letra
+print(j)
+# ejemplo 11:
+k=msj[83]    #imprimir la letra r
+#pedir la letra
+print(k)
+# ejemplo 12:
+l=msj[89]    #imprimir la letra m
+#pedir la letra
+print(l)
+# ejemplo 13:
+m=msj[7]    #imprimir la letra a
+#pedir la letra
+print(m)
+# ejemplo 14:
+n=msj[11]    #imprimir la letra a
+#pedir la letra
+print(n)
+# ejemplo 15:
+o=msj[17]    #imprimir la letra s
+#pedir la letra
+print(o)
+#fin
