@@ -1,3 +1,7 @@
+#ejemplos de indexacion:
+
+# ejemplo 1:
+#              1         2         3         4         5         6         7         8         9
 #    012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678
 msj="Al cerrar las persianas, el viento comenzó a soplar con más fuerza y escuchamos un ruido muy fuerte"
 #pedir la letra:
